@@ -1,10 +1,10 @@
 {
   "page": {
     "transactions": {
-      "title": "Transactions",
+      "title": "Transaksi",
       "empty": {
-        "title": "No transactions",
-        "desc": " No transactions found on <1>supported chains</1>"
+        "title": "Tidak ada transaksi",
+        "desc": " Tidak ada transaksi ditemukan pada <1>Jaringan ini</1>"
       },
       "explain": {
         "approve": "Approve {{amount}} {{symbol}} for {{project}}",
